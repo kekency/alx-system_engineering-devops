@@ -4,3 +4,5 @@
 3-listfiles -- ls -l: Command to list all files in long format
 4-listmorefiles -- ls -al: Displaying current directory contents, including hidden files
 5-listfiles -- ls -an: display files digits only
+6-firstdirectory -- mkdir source_file/destination: creating directory in another
+7-movethatfile -- mv sourcefile ../../tmp

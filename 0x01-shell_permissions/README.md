@@ -6,3 +6,4 @@ Shell scripts
 4-empty - creates a file called hello
 5-execute - makes files executable for owner
 6-multiple_permissions - script to create permision for owner and group
+7-everybody - script that gives everyone the write to execute a file

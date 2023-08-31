@@ -6,3 +6,10 @@
 5-listfiles -- ls -an: display files digits only
 6-firstdirectory -- mkdir source_file/destination: creating directory in another
 7-movethatfile -- mv sourcefile ../../tmp
+8 - delete betty
+9- delete first directory
+10-Back to the future
+11-Lists
+12-File types
+13-symbolic link
+14- copy html

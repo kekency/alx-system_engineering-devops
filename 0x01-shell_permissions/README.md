@@ -9,3 +9,4 @@ Shell scripts
 7-everybody - script that gives everyone the write to execute a file
 8-James_Bond - the script to make other users have all the permisions while owner and group have nothing
 9-John_Doe - Script to mess with the permission
+10-mirror_permissions - changes mode of a file to mirror anothers permission

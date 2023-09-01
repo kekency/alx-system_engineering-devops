@@ -10,3 +10,6 @@ Shell scripts
 8-James_Bond - the script to make other users have all the permisions while owner and group have nothing
 9-John_Doe - Script to mess with the permission
 10-mirror_permissions - changes mode of a file to mirror anothers permission
+11-Directories - changes directory permission
+12-Directory - mkdir
+13-change_group - changes group

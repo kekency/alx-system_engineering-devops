@@ -11,5 +11,5 @@ Shell scripts
 9-John_Doe - Script to mess with the permission
 10-mirror_permissions - changes mode of a file to mirror anothers permission
 11-Directories - changes directory permission
-12-Directory - mkdir
+12-Directory - mkdir with code
 13-change_group - changes group
